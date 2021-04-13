@@ -2,10 +2,10 @@
 
 OpenCV Based Object Tracking Code Baseline by BaekKyunShin, https://github.com/BaekKyunShin/OpenCV_Project_Python/tree/master/08.match_track
 
-##Purpose : To detect car accident event with object tracking(classical)
+## Purpose : To detect car accident event with object tracking(classical)
 
-##전체 목적 : 스마트 도로조명 활용 도시재난안전관리 연계 기술 개발 중 교통사고 검출  
-이 중 Edge(CCTV, 스마트 도로조명등) 부분에서 검출할때, 해당 API(OpenCV 제공) or SORT와 같은 방식 고려중 (SORT Github : https://github.com/abewley/sort)  
+## 전체 목적 : 스마트 도로조명 활용 도시재난안전관리 연계 기술 개발 중 교통사고 검출  
+이 중 Edge(CCTV, 스마트 도로조명등) 부분에서 검출할때, 현 코드와 같은 Object Tracking API(OpenCV 제공) or SORT와 같은 방식 고려중 (SORT Github : https://github.com/abewley/sort)  
 직접적인 Server에서는 좀 더 무거운 FairMOT와 같은 방식으로 Multiple Object Tracking을 하여 검출하는 알고리즘 고려 (FairMOT Github : https://github.com/ifzhang/FairMOT)
 
 현재는 아주 간단한 Task로 Frame 별 이동 거리를 바탕으로 (FPS는 일정할 것이므로) 속도, Frame 별 이동거리를 바탕으로 가속도를 구하여  
