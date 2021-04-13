@@ -15,3 +15,4 @@ Blackbox base의 영상으로 start, 시작된 영상에서 차량을 Drag 하�
 
 ex) 좌측면에 있는 차량에 해당하게 Bounding Box를 손으로 하는 방식, 동작하는것은 다음과 같음
 
+<iframe width="640" height="360" src="https://youtu.be/tvtUrwRFx8E" frameborder="0" gesture="media" allowfullscreen=""></iframe>
