@@ -16,3 +16,9 @@ Blackbox base의 영상으로 start, 시작된 영상에서 차량을 Drag 하�
 ex) 좌측면에 있는 차량에 해당하게 Bounding Box를 손으로 하는 방식, 동작하는것은 다음과 같음
 
 [![Demo](http://img.youtube.com/vi/tvtUrwRFx8E/0.jpg)](https://youtu.be/tvtUrwRFx8E) 
+
+Further work :  
+MOT in FairMOT, JDE ... (More Deep - Network Version)  
+Accident detection network reinforcement :  
+(1) Hard-coded,  
+(2)deep learning based
